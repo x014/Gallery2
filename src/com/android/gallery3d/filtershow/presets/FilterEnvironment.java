@@ -20,7 +20,7 @@ import java.lang.ref.WeakReference;
 import java.util.HashMap;
 
 import android.graphics.Bitmap;
-import android.renderscript.Allocation;
+import android.support.v8.renderscript.Allocation;
 
 import com.android.gallery3d.filtershow.cache.CachingPipeline;
 import com.android.gallery3d.filtershow.filters.FilterRepresentation;

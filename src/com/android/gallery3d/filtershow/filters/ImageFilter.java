@@ -18,7 +18,7 @@ package com.android.gallery3d.filtershow.filters;
 
 import android.graphics.Bitmap;
 import android.graphics.Matrix;
-import android.renderscript.Allocation;
+import android.support.v8.renderscript.Allocation;
 import android.widget.Toast;
 
 import com.android.gallery3d.filtershow.FilterShowActivity;

@@ -20,7 +20,7 @@ import java.util.Vector;
 
 import android.graphics.Bitmap;
 import android.graphics.Rect;
-import android.renderscript.Allocation;
+import android.support.v8.renderscript.Allocation;
 import android.util.Log;
 
 import com.android.gallery3d.filtershow.cache.CachingPipeline;
